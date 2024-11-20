@@ -1,4 +1,4 @@
-👋 Hi, I'm GIFTA GRACE!  
+## **👋 Hi, I'm GIFTA GRACE!**  
 
 ## About Me 🌟  
 I'm a Tech Enthusiast passionate about game and website development.
