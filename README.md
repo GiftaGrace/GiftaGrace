@@ -23,6 +23,7 @@ Here are a few projects that showcase my skills:
 |------------------------------|------------------------------------------------------------------|-----------------------------|----------------------------------------------------|
 | **Simple 2D Game**             | A fun and interactive 2D game built using Python.                | Python                      | https://github.com/GiftaGrace?tab=repositories     |
 | **Netflix Landing Page**       | Responsive Netflix clone with modern design and dynamic features.| JavaScript, HTML, CSS       | https://github.com/GiftaGrace/Netflix-Landing-Page |
+| **Netflix data analysis**       | Exploratory Data Analysis (EDA) of the Netflix Movies and TV Shows dataset to identify trends in content types, popular genres, top producing countries, and growth over time using Python.| Python, Pandas, Matplotlib, Google Colab/ Jupyter Notebook      | https://github.com/GiftaGrace/Netflix-Data-Analysis |
   
 
 ## 🎮 Hobbies & Interests
